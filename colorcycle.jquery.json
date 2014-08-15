@@ -9,7 +9,7 @@
     "version": "0.1.0",
     "author": {
         "name": "Jonathan Grover",
-        "url": "https://github.com/flatiron-school-curriculum/jquery-color-cycle-plugin/AUTHORS.txt"
+        "url": "https://github.com/flatiron-school-curriculum/jquery-color-cycle-plugin/blob/master/AUTHORS.txt"
     },
     "maintainers": [
         {
@@ -21,7 +21,7 @@
     "licenses": [
         {
             "type": "MIT",
-            "url": "https://github.com/flatiron-school-curriculum/jquery-color-cycle-plugin/MIT-LICENSE.txt"
+            "url": "https://github.com/flatiron-school-curriculum/jquery-color-cycle-plugin/blob/master/MIT-LICENSE.txt"
         }
     ],
     "bugs": "https://github.com/flatiron-school-curriculum/jquery-color-cycle-plugin/issues",
