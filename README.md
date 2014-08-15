@@ -11,8 +11,8 @@ jQuery plugin that continuously fades the background color of selected element(s
 
 ## Demo
 
-[JSFiddle Demo](http://jsfiddle.net/flatiron_school/yw7g6xac/9/)
-[Demo Source](DEMO.html)
+  * [JSFiddle Demo](http://jsfiddle.net/flatiron_school/yw7g6xac/9/)
+  * [Demo Source](DEMO.html)
 
 ## Usage
 
