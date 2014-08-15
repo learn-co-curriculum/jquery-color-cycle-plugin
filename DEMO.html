@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>jQuery Color Cycle Plugin Demo</title>
+  <style>
+    a {
+      display: table-cell;
+      text-align: center;
+      vertical-align: middle;
+      width: 100px;
+      height: 100px;
+      border-radius: 100%;
+      background-color: #ccc;
+    }
+  </style>
+</head>
+<body>
+  <h1>jQuery Color Cycle Plugin Demo</h1>
+  <h2>Example</h2>
+
+    <a>1</a>
+    <a>2</a>
+    <a>3</a>
+    <a>4</a>
+    <a>5</a>
+
+  <!-- jQuery v1.8.3 -->
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  
+  <!-- jQuery UI v 1.8.23 -->
+  <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/jquery-ui.min.js"></script>
+  
+  <!-- jQuery Color Cycle Plugin -->
+  <script src="jquery.colorcycle.min.js"></script>
+  
+  <!-- Usage -->
+  <script>
+    $(function(){
+
+      $('a').colorCycle();
+
+      /* Configuring Options:
+
+      $('a').colorCycle({
+
+        // colors as array on strings pass any valid CSS color value.
+        colors: ['red', 'rgb(0,255,0)', '#0000ff'],
+        
+        // starting and end range for animation time in milliseconds.
+        animationStartRange: 1000,
+        animationEndRange: 2000,
+
+        // starting and end range for loop time in milliseconds.
+        loopStartRange: 1000,
+        loopEndRange: 4000
+      });
+
+      */
+    });
+  </script>
+</body>
+</html>
