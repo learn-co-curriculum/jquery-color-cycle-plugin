@@ -14,8 +14,8 @@ jQuery plugin that continuously fades the background color of selected element(s
 ## Demo
   
   * [Demo](http://flatiron-school-curriuclum.github.io/jquery-color-cycle-plugin)
-  * [Demo Source](DEMO.html)  
-  
+  * [Demo Source](index.html)  
+
   * [JSFiddle](http://jsfiddle.net/flatiron_school/yw7g6xac/9/)
 
 ## Usage
@@ -68,7 +68,7 @@ jQuery plugin that continuously fades the background color of selected element(s
 </body>
 </html>
 ```
-[Demo Source](DEMO.html)
+[Demo Source](index.html)
 
 ## Customizing options
 
