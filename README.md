@@ -9,10 +9,14 @@ resources: 0
 
 jQuery plugin that continuously fades the background color of selected element(s). Has options for setting colors as an array as well as animation time and loop time.
 
-## Demo
+[plugins.jquery.com/colorcycle/](http://plugins.jquery.com/colorcycle/)
 
-  * [JSFiddle Demo](http://jsfiddle.net/flatiron_school/yw7g6xac/9/)
-  * [Demo Source](DEMO.html)
+## Demo
+  
+  * [Demo](http://flatiron-school-curriuclum.github.io/jquery-color-cycle-plugin)
+  * [Demo Source](DEMO.html)  
+  
+  * [JSFiddle](http://jsfiddle.net/flatiron_school/yw7g6xac/9/)
 
 ## Usage
 
@@ -64,6 +68,8 @@ jQuery plugin that continuously fades the background color of selected element(s
 </body>
 </html>
 ```
+[Demo Source](DEMO.html)
+
 ## Customizing options
 
 The colorCycle() method can be passed an object with the following settings available:
