@@ -1,4 +1,4 @@
-/* jQuery Color Cycle Plugin - v0.1.0 - created by: jon@flatironschool.com */
+/* jQuery Color Cycle Plugin - v0.1.1 - created by: jon@flatironschool.com */
 (function ($) {
     
     $.fn.colorCycle = function( options ) {
