@@ -13,7 +13,7 @@ jQuery plugin that continuously fades the background color of selected element(s
 
 ## Demo
   
-  * [Demo](http://flatiron-school-curriculum.github.io/jquery-color-cycle-plugin/)
+  * [Demo](http://learn-co-curriculum.github.io/jquery-color-cycle-plugin/)
   * [JSFiddle](http://jsfiddle.net/flatiron_school/yw7g6xac/9/)
 
 ## Usage
