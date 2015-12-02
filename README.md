@@ -98,3 +98,5 @@ $('a').colorCycle({
 [Authors](AUTHORS.txt)
 
 Built with ♥ at the [Flatiron School](http://flatironschool.com).
+
+<a href='https://learn.co/lessons/jquery-color-cycle-plugin' data-visibility='hidden'>View this lesson on Learn.co</a>
